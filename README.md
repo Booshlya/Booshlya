@@ -1,4 +1,4 @@
-[![MasterHead](https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github)]
+![MasterHead](https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif)
 
 <h1 align="center">Hi 👋, I'm Gleb</h1>
 <h3 align="center">I am a student at Higher School of Economics and University of London (LSE)</h3>
